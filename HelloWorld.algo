@@ -2,12 +2,13 @@ Utiliser les constantes de Constantes
 
 Algo HelloWorld {
   fonction principale {
-    Créer la couleur jaune
+    Créer la couleur bleu
+    Créer la couleur vert
       // Création de la fenêtre
     Créer une fenêtre de titre HELLO_WORLD_TITLE
     Mettre la dimension à 500, 500
     Configurer la fenêtre sur ‘exitOnClose’
-    Mettre la couleur jaune sur le fond d'écran
+    Mettre la couleur de fond d'écran en vert
       // Création du label de texte
     Créer un label avec du texte centré et contenant le texte HELLO_WORLD_TEXT
     Mettre la couleur jaune sur le label
