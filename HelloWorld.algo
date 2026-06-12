@@ -11,6 +11,7 @@ Algo HelloWorld {
     Mettre la couleur de fond d'écran en cyan
       // Création du label de texte
     Créer un label avec du texte centré et contenant le texte HELLO_WORLD_TEXT
+    Ajouter au label la date du jour
     Mettre la couleur bleu sur le label
       // Finalisation
     Ajouter le label sur la fenêtre
